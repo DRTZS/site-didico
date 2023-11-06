@@ -638,11 +638,6 @@ progress {
   background-size: cover;
 }
 
-.img-fluid-logo {
-  max-width: 65%;
-  height: auto;
-}
-
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -11070,26 +11065,6 @@ p {
     z-index: 1;
     margin-top: -3rem;
     max-width: 50vw;
-  }
-}
-
-.list-hours {
-  font-size: 0.9rem;
-}
-.list-hours .list-hours-item {
-  border-bottom: 1px solid rgba(230, 167, 86, 0.5);
-  padding-bottom: 0.25rem;
-  margin-bottom: 1rem;
-  font-style: italic;
-}
-.list-hours .list-hours-item.today {
-  font-weight: bold;
-  color: #e6a756;
-}
-@media (min-width: 992px) {
-  .list-hours {
-    width: 50%;
-    font-size: 1.1rem;
   }
 }
 
