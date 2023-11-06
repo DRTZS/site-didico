@@ -632,6 +632,12 @@ progress {
   height: auto;
 }
 
+.img-fluid2 {
+  max-width: 200%;
+  height: auto;
+  background-size: cover;
+}
+
 .img-fluid-logo {
   max-width: 65%;
   height: auto;
